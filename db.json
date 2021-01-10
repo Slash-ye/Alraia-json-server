@@ -11,7 +11,61 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+
+
+
+ "PrepareProduct":[
+   {
+    "Id": 1,
+    "TypePrepare": 1,
+    "TypePrepareName": "",
+    "PrepareName_ar": "تقطيع كامل",
+    "PrepareName_en": "chipping all",
+    "Price": 600.00,
+    "status": true
+  },
+  {
+   "Id": 2,
+   "TypePrepare": 2,
+   "TypePrepareName": "",
+   "PrepareName_ar": "خيار تغليف 1",
+   "PrepareName_en": "Encapsulation 1",
+   "Price": 600.00,
+   "status": true
+ },
+ {
+  "Id": 3,
+  "TypePrepare": 2,
+  "TypePrepareName": "",
+  "PrepareName_ar": "خيار تغليف 2",
+  "PrepareName_en": "Encapsulation 2",
+  "Price": 600.00,
+  "status": true
+},
+{
+ "Id": 4,
+ "TypePrepare": 3,
+ "TypePrepareName": "طباخة",
+ "PrepareName_ar": "راس",
+ "PrepareName_en": "Head",
+ "Price": 600.00,
+ "status": true
+}, {
+  "Id": 5,
+  "TypePrepare": 4,
+  "TypePrepareName": "طباخة",
+  "PrepareName_ar": "حنيد",
+  "PrepareName_en": "hanud",
+  "Price": 600.00,
+  "status": true
+}, {
+  "Id": 6,
+  "TypePrepare": 1,
+  "TypePrepareName": "طباخة",
+  "PrepareName_ar": "مندي",
+  "PrepareName_en": null,
+  "Price": 600.00,
+  "status": true
+}, 
+ ],
 }
