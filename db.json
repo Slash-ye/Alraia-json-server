@@ -50,7 +50,8 @@
  "PrepareName_en": "Head",
  "Price": 600.00,
  "status": true
-}, {
+},
+{
   "Id": 5,
   "TypePrepare": 4,
   "TypePrepareName": "طباخة",
@@ -58,7 +59,8 @@
   "PrepareName_en": "hanud",
   "Price": 600.00,
   "status": true
-}, {
+},
+ {
   "Id": 6,
   "TypePrepare": 1,
   "TypePrepareName": "طباخة",
@@ -66,6 +68,6 @@
   "PrepareName_en": null,
   "Price": 600.00,
   "status": true
-}, 
+}
  ],
 }
